@@ -1,25 +1,53 @@
-#  Problem 1 — Cloud Security & Threat Detection
+#  Problem 2 — Cloud Security & Threat Detection System
 
 ---
 
-## 🔥 Pipeline Overview
-
-This project demonstrates an automated CI/CD pipeline using modern DevOps tools.
-
----
-
-## 🛠️ Tools Used
-- Jenkins  
-- Docker  
-- GitHub Actions  
+##  Overview
+Cloud-based security system with login monitoring and AI-based threat detection.
 
 ---
 
-## ⚙️ Pipeline Flow
+##  Tools Used
+- Flask  
+- Scikit-learn  
+- NumPy  
+- Pandas  
 
-```text
-Code pushed to GitHub 
-        ↓
-GitHub Actions → Runs tests & builds Docker images
-        ↓
-Jenkins → Pulls code & deploys using Docker Compose
+---
+
+##  Flow
+- User login request  
+- Credentials checked  
+- Failed attempts tracked  
+- ML model detects anomaly  
+- Logs & stats updated  
+
+---
+
+##  Features
+- Auto user registration  
+- Login authentication  
+- Failed login tracking  
+- Fraud detection (after 3 attempts)  
+- Anomaly detection (ML)  
+
+---
+
+##  Endpoints
+- `/` → Dashboard  
+- `/logs` → Logs  
+- `/stats` → Stats  
+
+---
+
+##  Run
+- git clone https:
+- cd cloud-security-system  
+- pip install flask scikit-learn numpy pandas  
+- python app.py  
+
+---
+
+##  Links
+- GitHub: 
+- Access:
