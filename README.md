@@ -41,7 +41,7 @@ Cloud-based security system with login monitoring and AI-based threat detection.
 ---
 
 ##  Run
-- git clone https:
+- git clone https: https://github.com/Trackpulse828/Cloud-Security-Threat-Detection.git
 - cd cloud-security-system  
 - pip install flask scikit-learn numpy pandas  
 - python app.py  
@@ -49,5 +49,5 @@ Cloud-based security system with login monitoring and AI-based threat detection.
 ---
 
 ##  Links
-- GitHub: 
+- GitHub: https://github.com/Trackpulse828/Cloud-Security-Threat-Detection.git
 - Access:
